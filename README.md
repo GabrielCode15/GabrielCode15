@@ -14,10 +14,6 @@
   <tr><td><strong>Nacionality:</strong></td><td align= "center">Portuguese  <img src= "https://img.icons8.com/?size=16&id=QH60qY9_4jHs&format=png"></td></tr>
 </table>
 
-<p align= "center">
-  <a href="https://github.com/Gabrielcode15">
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Gabrielcode15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+
 
 
