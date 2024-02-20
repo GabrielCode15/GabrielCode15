@@ -10,7 +10,7 @@
     </th>
   </tr>
   <tr><td><strong>Name:</strong></td><td>Jorge Gabriel Costa Magalhães</td></tr>
-  <tr><td><strong>Age:</strong></td><td align= "center">25 years</td></tr>
+  <tr><td><strong>Age:</strong></td><td align= "center">26 years</td></tr>
   <tr><td><strong>Nacionality:</strong></td><td align= "center">Portuguese  <img src= "https://img.icons8.com/?size=16&id=QH60qY9_4jHs&format=png"></td></tr>
 </table>
 
